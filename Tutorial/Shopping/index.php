@@ -39,7 +39,7 @@ session_start();
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Shopping Cart</title>
-<!--Font Awarsome-->
+<!--Font Awaysome-->
 <script src="https://kit.fontawesome.com/608277ff6d.js" crossorigin="anonymous"></script>
 <!--Bootstrap CDN-->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css" integrity="sha384-jLKHWM3JRmfMU0A5x5AkjWkw/EYfGUAGagvnfryNV3F9VqM98XiIH7VBGVoxVSc7" crossorigin="anonymous">
@@ -90,7 +90,7 @@ session_start();
                     </div>
                 </form>
             </div> -->
-
+        <h4 class="goodbye">See you soon!</h4>
         </div>
     </div>
 
